@@ -106,7 +106,7 @@ class _WelcomeState extends State<WelcomePage>
                 animationController: _animationController,
                 interval: const Interval(0.5, 0.9),
                 child: Text(
-                  'Papor',
+                  'Zoomie',
                   style: TextStyle(
                     color: const Color(0xFFFFFFFF),
                     fontSize: width * 0.08,
