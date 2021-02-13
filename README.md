@@ -3,8 +3,8 @@ Made with 🔥 in India
 
 ![icon](https://github.com/shubhamhackz/animated_onboarding/blob/master/files/video.png)
 
-This flutter app is based on the design made by Matthieu Souteyrand on [Dribble](https://dribbble.com/shots/5846239-Light-dark-toggle-switch-InVision-Studio).He describes the design as: 
-> Back to UI motion with Invision Studio! This shot is a simple idea I had in mind, mixing a segmented control / toggle hybrid with a light theme / dark theme motion into one visual.
+This flutter app is made just to demonstrate how to we can make an animated onboarding experience that looks beautiful and provides a good user experience as well.
+> Back to UI and the app. This idea I had in mind for a long time and I was so busy so couldn't implement it,now here it is. Enjoy 😍
 
 ## App Design 
 ![Animated Onboarding](https://github.com/shubhamhackz/animated_onboarding/blob/master/files/preview.gif)
