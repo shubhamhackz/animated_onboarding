@@ -31,7 +31,7 @@ Note : Uploaded apk is a fat apk which works on armeabi-v7a (ARM 32-bit), arm64-
 ```
 MIT License
 
-Copyright (c) 2020 Shubham Soni
+Copyright (c) 2021 Shubham Soni
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
