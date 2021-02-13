@@ -13,7 +13,7 @@ This flutter app is based on the design made by Matthieu Souteyrand on [Dribble]
 Note : Uploaded apk is a fat apk which works on armeabi-v7a (ARM 32-bit), arm64-v8a (ARM 64-bit), and x86-64 (x86 64-bit). If you want small size apk then please clone this reposittory and generate one using Android Studio or Visual Studio Code.
 
  
-[![Download Apk](https://github.com/shubhamhackz/light_dark_toggle/blob/master/files/apk_btn.png)](https://github.com/shubhamhackz/light_dark_toggle/blob/master/files/app-release.apk)
+[![Download Apk](https://github.com/shubhamhackz/light_dark_toggle/blob/master/files/apk_btn.png)](https://github.com/shubhamhackz/animated_onboarding/blob/master/files/app-release.apk)
 
 ## Screenshots 
 ![Screenshot 1](https://github.com/shubhamhackz/light_dark_toggle/blob/master/files/mock2.png) ![Screnshsot 2](https://github.com/shubhamhackz/light_dark_toggle/blob/master/files/mockup2.png)
