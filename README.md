@@ -4,6 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
+![Alt Text](https://github.com/shubhamhackz/animated_onboarding/blob/master/files/preview.gif)
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
