@@ -16,7 +16,8 @@ Note : Uploaded apk is a fat apk which works on armeabi-v7a (ARM 32-bit), arm64-
 [![Download Apk](https://github.com/shubhamhackz/light_dark_toggle/blob/master/files/apk_btn.png)](https://github.com/shubhamhackz/animated_onboarding/blob/master/files/app-release.apk)
 
 ## Screenshots 
-![Screenshot 1](https://github.com/shubhamhackz/light_dark_toggle/blob/master/files/mock2.png) ![Screnshsot 2](https://github.com/shubhamhackz/light_dark_toggle/blob/master/files/mockup2.png)
+![Screenshot 1](https://github.com/shubhamhackz/animated_onboarding/blob/master/files/screenshot_1.png) ![Screnshsot 2](https://github.com/shubhamhackz/animated_onboarding/blob/master/files/screenshot_2.png) ![Screenshot 3](https://github.com/shubhamhackz/animated_onboarding/blob/master/files/screenshot_3.png) 
+
 
 ## Author 
 - [Facebook](https://www.facebook.com/shubhamhackz)
