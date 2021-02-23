@@ -10,7 +10,7 @@ This flutter app is made just to demonstrate how to we can make an animated onbo
 ![Animated Onboarding](https://github.com/shubhamhackz/animated_onboarding/blob/master/files/preview.gif)
 
 ## Download App
-Note : Uploaded apk is a fat apk which works on armeabi-v7a (ARM 32-bit), arm64-v8a (ARM 64-bit), and x86-64 (x86 64-bit). If you want small size apk then please clone this reposittory and generate one using Android Studio or Visual Studio Code.
+Note : Uploaded apk is a fat apk which works on armeabi-v7a (ARM 32-bit), arm64-v8a (ARM 64-bit), and x86-64 (x86 64-bit). If you want small size apk then please clone this repository and generate one using Android Studio or Visual Studio Code.
 
  
 [![Download Apk](https://github.com/shubhamhackz/light_dark_toggle/blob/master/files/apk_btn.png)](https://github.com/shubhamhackz/animated_onboarding/blob/master/files/app-release.apk)
